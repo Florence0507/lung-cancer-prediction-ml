@@ -1,4 +1,4 @@
-# 🫁 Lung Cancer Prediction using Logistic Regression
+# 🫁 Lung Cancer Prediction using Logistic Regression:
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange?logo=scikit-learn)
